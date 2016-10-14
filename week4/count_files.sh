@@ -1,3 +1,4 @@
 #!/bin/bash
 
-find . -type f | wc -l
+echo $1
+find $1 | wc -l

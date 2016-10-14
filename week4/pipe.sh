@@ -6,7 +6,7 @@
 
 #ps -ef lists the process with the arguments that are used to start that process, 
 
-#grep is used for searching files for a certain text
+#grep is used for searching files for a certain text, in this case mysql
 
 #so the ps -ef | grep mysql command will 'pipe' the output from ps -ef and search for the file mysql 
 
