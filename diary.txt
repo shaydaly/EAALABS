@@ -1,0 +1,6 @@
+Here is the first line
+Here is the second line
+Fri Oct 14 09:44:18 IST 2016
+Here is the new line with date
+Fri Oct 14 09:44:46 IST 2016
+another line with date
